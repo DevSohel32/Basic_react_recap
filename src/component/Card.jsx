@@ -5,6 +5,7 @@ export default function Card (props){
                 <h1>Card Title {props.name}</h1>
                                 <h1>Card Title {props.name}</h1>
 
+                <h1>Card Title {props.name}</h1>
 
     </div>
 }
