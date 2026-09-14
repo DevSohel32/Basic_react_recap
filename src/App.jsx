@@ -6,7 +6,8 @@ import Card from './component/card';
 
 function App() {
   return (
-   <Card name='md sujauddoula sohel kire kic'/>
+   <Card name='md sujauddoula sohel kire'/>
+   
 
   )
 }
