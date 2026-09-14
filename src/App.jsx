@@ -1,11 +1,12 @@
 import { useState } from 'react'
 import './App.css'
 import TestComponent from './TestComponent';
+import Card from './component/card';
 
 
 function App() {
   return (
-   <TestComponent />
+   <Card name='md sujauddoula sohel'/>
 
   )
 }
